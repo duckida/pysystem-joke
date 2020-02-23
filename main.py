@@ -1,2 +1,2 @@
-execfile('bootloader.py')
-execfile('terminal.py')
+execfile('/path/to/the/bootloader.py')
+execfile('/path/to/the/terminal.py')
