@@ -7,7 +7,7 @@ while True:
     elif cmd == "ls":
         print("Joke.txt beep.png Documents")
     elif cmd == "info":
-        print("PyTERM 1.0 on MacOS 10.15")
+        print("PyTERM 1.0 on macOS 11.1")
 
     else:
         print("Erasing disk C:")
